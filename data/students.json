@@ -1,0 +1,352 @@
+[
+    {
+        "student_id": "stu_1000",
+        "goal": "Excel in Physics",
+        "preferred_study_time": "late_night",
+        "study_type": "kinesthetic",
+        "personality": ["creative", "focused", "analytical"]
+    },
+    {
+        "student_id": "stu_1001",
+        "goal": "Master Python",
+        "preferred_study_time": "afternoon",
+        "study_type": "visual",
+        "personality": ["creative", "introvert"]
+    },
+    {
+        "student_id": "stu_1002",
+        "goal": "Get into IIT",
+        "preferred_study_time": "early_morning",
+        "study_type": "reading",
+        "personality": ["organized", "collaborative"]
+    },
+    {
+        "student_id": "stu_1003",
+        "goal": "Improve Math Skills",
+        "preferred_study_time": "early_morning",
+        "study_type": "visual",
+        "personality": ["analytical", "extrovert", "patient"]
+    },
+    {
+        "student_id": "stu_1004",
+        "goal": "Ace GRE",
+        "preferred_study_time": "evening",
+        "study_type": "auditory",
+        "personality": ["introvert", "patient", "organized"]
+    },
+    {
+        "student_id": "stu_1005",
+        "goal": "Prepare for CAT",
+        "preferred_study_time": "evening",
+        "study_type": "reading",
+        "personality": ["collaborative", "creative", "focused"]
+    },
+    {
+        "student_id": "stu_1006",
+        "goal": "Crack GATE 2025",
+        "preferred_study_time": "afternoon",
+        "study_type": "visual",
+        "personality": ["analytical", "introvert", "creative"]
+    },
+    {
+        "student_id": "stu_1007",
+        "goal": "Learn Data Science",
+        "preferred_study_time": "late_night",
+        "study_type": "kinesthetic",
+        "personality": ["focused", "patient"]
+    },
+    {
+        "student_id": "stu_1008",
+        "goal": "Ace GRE",
+        "preferred_study_time": "early_morning",
+        "study_type": "auditory",
+        "personality": ["creative", "analytical", "extrovert"]
+    },
+    {
+        "student_id": "stu_1009",
+        "goal": "Get into IIT",
+        "preferred_study_time": "evening",
+        "study_type": "visual",
+        "personality": ["introvert", "focused", "patient"]
+    },
+    {
+        "student_id": "stu_1010",
+        "goal": "Crack GATE 2025",
+        "preferred_study_time": "late_night",
+        "study_type": "reading",
+        "personality": ["organized", "analytical"]
+    },
+    {
+        "student_id": "stu_1011",
+        "goal": "Master Python",
+        "preferred_study_time": "evening",
+        "study_type": "kinesthetic",
+        "personality": ["extrovert", "creative", "patient"]
+    },
+    {
+        "student_id": "stu_1012",
+        "goal": "Improve Math Skills",
+        "preferred_study_time": "afternoon",
+        "study_type": "auditory",
+        "personality": ["introvert", "organized"]
+    },
+    {
+        "student_id": "stu_1013",
+        "goal": "Learn Data Science",
+        "preferred_study_time": "early_morning",
+        "study_type": "visual",
+        "personality": ["collaborative", "analytical", "patient"]
+    },
+    {
+        "student_id": "stu_1014",
+        "goal": "Prepare for CAT",
+        "preferred_study_time": "late_night",
+        "study_type": "reading",
+        "personality": ["focused", "creative"]
+    },
+    {
+        "student_id": "stu_1015",
+        "goal": "Excel in Physics",
+        "preferred_study_time": "afternoon",
+        "study_type": "auditory",
+        "personality": ["introvert", "extrovert", "organized"]
+    },
+    {
+        "student_id": "stu_1016",
+        "goal": "Get into IIT",
+        "preferred_study_time": "evening",
+        "study_type": "kinesthetic",
+        "personality": ["collaborative", "creative"]
+    },
+    {
+        "student_id": "stu_1017",
+        "goal": "Crack GATE 2025",
+        "preferred_study_time": "early_morning",
+        "study_type": "visual",
+        "personality": ["analytical", "patient"]
+    },
+    {
+        "student_id": "stu_1018",
+        "goal": "Ace GRE",
+        "preferred_study_time": "late_night",
+        "study_type": "reading",
+        "personality": ["introvert", "organized", "creative"]
+    },
+    {
+        "student_id": "stu_1019",
+        "goal": "Prepare for CAT",
+        "preferred_study_time": "afternoon",
+        "study_type": "auditory",
+        "personality": ["focused", "extrovert"]
+    },
+    {
+        "student_id": "stu_1020",
+        "goal": "Learn Data Science",
+        "preferred_study_time": "evening",
+        "study_type": "reading",
+        "personality": ["collaborative", "analytical", "patient"]
+    },
+    {
+        "student_id": "stu_1021",
+        "goal": "Master Python",
+        "preferred_study_time": "early_morning",
+        "study_type": "kinesthetic",
+        "personality": ["introvert", "creative"]
+    },
+    {
+        "student_id": "stu_1022",
+        "goal": "Excel in Physics",
+        "preferred_study_time": "late_night",
+        "study_type": "visual",
+        "personality": ["organized", "analytical", "focused"]
+    },
+    {
+        "student_id": "stu_1023",
+        "goal": "Improve Math Skills",
+        "preferred_study_time": "evening",
+        "study_type": "auditory",
+        "personality": ["patient", "collaborative"]
+    },
+    {
+        "student_id": "stu_1024",
+        "goal": "Get into IIT",
+        "preferred_study_time": "afternoon",
+        "study_type": "visual",
+        "personality": ["focused", "introvert", "creative"]
+    },
+    {
+        "student_id": "stu_1025",
+        "goal": "Crack GATE 2025",
+        "preferred_study_time": "late_night",
+        "study_type": "reading",
+        "personality": ["analytical", "organized"]
+    },
+    {
+        "student_id": "stu_1026",
+        "goal": "Prepare for CAT",
+        "preferred_study_time": "early_morning",
+        "study_type": "auditory",
+        "personality": ["collaborative", "patient", "creative"]
+    },
+    {
+        "student_id": "stu_1027",
+        "goal": "Learn Data Science",
+        "preferred_study_time": "afternoon",
+        "study_type": "kinesthetic",
+        "personality": ["extrovert", "organized"]
+    },
+    {
+        "student_id": "stu_1028",
+        "goal": "Ace GRE",
+        "preferred_study_time": "evening",
+        "study_type": "visual",
+        "personality": ["focused", "analytical", "introvert"]
+    },
+    {
+        "student_id": "stu_1029",
+        "goal": "Improve Math Skills",
+        "preferred_study_time": "late_night",
+        "study_type": "auditory",
+        "personality": ["creative", "patient"]
+    },
+    {
+        "student_id": "stu_1030",
+        "goal": "Excel in Physics",
+        "preferred_study_time": "afternoon",
+        "study_type": "reading",
+        "personality": ["collaborative", "analytical"]
+    },
+    {
+        "student_id": "stu_1031",
+        "goal": "Master Python",
+        "preferred_study_time": "early_morning",
+        "study_type": "visual",
+        "personality": ["introvert", "extrovert", "organized"]
+    },
+    {
+        "student_id": "stu_1032",
+        "goal": "Get into IIT",
+        "preferred_study_time": "evening",
+        "study_type": "kinesthetic",
+        "personality": ["focused", "creative"]
+    },
+    {
+        "student_id": "stu_1033",
+        "goal": "Learn Data Science",
+        "preferred_study_time": "late_night",
+        "study_type": "auditory",
+        "personality": ["analytical", "patient", "organized"]
+    },
+    {
+        "student_id": "stu_1034",
+        "goal": "Prepare for CAT",
+        "preferred_study_time": "afternoon",
+        "study_type": "reading",
+        "personality": ["introvert", "collaborative"]
+    },
+    {
+        "student_id": "stu_1035",
+        "goal": "Crack GATE 2025",
+        "preferred_study_time": "evening",
+        "study_type": "visual",
+        "personality": ["focused", "analytical", "creative"]
+    },
+    {
+        "student_id": "stu_1036",
+        "goal": "Ace GRE",
+        "preferred_study_time": "early_morning",
+        "study_type": "auditory",
+        "personality": ["patient", "organized"]
+    },
+    {
+        "student_id": "stu_1037",
+        "goal": "Excel in Physics",
+        "preferred_study_time": "late_night",
+        "study_type": "kinesthetic",
+        "personality": ["collaborative", "introvert", "focused"]
+    },
+    {
+        "student_id": "stu_1038",
+        "goal": "Improve Math Skills",
+        "preferred_study_time": "afternoon",
+        "study_type": "reading",
+        "personality": ["analytical", "creative"]
+    },
+    {
+        "student_id": "stu_1039",
+        "goal": "Get into IIT",
+        "preferred_study_time": "evening",
+        "study_type": "auditory",
+        "personality": ["organized", "patient", "extrovert"]
+    },
+    {
+        "student_id": "stu_1040",
+        "goal": "Master Python",
+        "preferred_study_time": "early_morning",
+        "study_type": "kinesthetic",
+        "personality": ["focused", "collaborative"]
+    },
+    {
+        "student_id": "stu_1041",
+        "goal": "Prepare for CAT",
+        "preferred_study_time": "afternoon",
+        "study_type": "visual",
+        "personality": ["creative", "introvert", "patient"]
+    },
+    {
+        "student_id": "stu_1042",
+        "goal": "Crack GATE 2025",
+        "preferred_study_time": "evening",
+        "study_type": "reading",
+        "personality": ["analytical", "organized"]
+    },
+    {
+        "student_id": "stu_1043",
+        "goal": "Learn Data Science",
+        "preferred_study_time": "late_night",
+        "study_type": "auditory",
+        "personality": ["collaborative", "extrovert"]
+    },
+    {
+        "student_id": "stu_1044",
+        "goal": "Ace GRE",
+        "preferred_study_time": "early_morning",
+        "study_type": "visual",
+        "personality": ["focused", "analytical", "introvert"]
+    },
+    {
+        "student_id": "stu_1045",
+        "goal": "Excel in Physics",
+        "preferred_study_time": "afternoon",
+        "study_type": "kinesthetic",
+        "personality": ["patient", "creative"]
+    },
+    {
+        "student_id": "stu_1046",
+        "goal": "Improve Math Skills",
+        "preferred_study_time": "evening",
+        "study_type": "reading",
+        "personality": ["introvert", "organized"]
+    },
+    {
+        "student_id": "stu_1047",
+        "goal": "Get into IIT",
+        "preferred_study_time": "late_night",
+        "study_type": "auditory",
+        "personality": ["analytical", "focused"]
+    },
+    {
+        "student_id": "stu_1048",
+        "goal": "Prepare for CAT",
+        "preferred_study_time": "early_morning",
+        "study_type": "visual",
+        "personality": ["creative", "patient", "collaborative"]
+    },
+    {
+        "student_id": "stu_1049",
+        "goal": "Master Python",
+        "preferred_study_time": "afternoon",
+        "study_type": "reading",
+        "personality": ["introvert", "organized"]
+    }
+]

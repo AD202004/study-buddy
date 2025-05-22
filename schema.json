@@ -1,0 +1,58 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Study Buddy Matching API",
+        "version": "1.0.0"
+    },
+    "paths": {
+        "/match": {
+            "post": {
+                "summary": "Find best study buddy match",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/MatchRequest"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Best match found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/MatchResponse"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "MatchRequest": {
+                "type": "object",
+                "properties": {
+                    "student_id": {"type": "string"},
+                    "goal": {"type": "string"},
+                    "preferred_study_time": {"type": "string"},
+                    "study_type": {"type": "string"},
+                    "personality": {"type": "array", "items": {"type": "string"}}
+                },
+                "required": ["student_id", "goal", "preferred_study_time", "study_type", "personality"]
+            },
+            "MatchResponse": {
+                "type": "object",
+                "properties": {
+                    "matched_student_id": {"type": ["string", "null"]},
+                    "match_score": {"type": "number"},
+                    "reasoning": {"type": "object"}
+                }
+            }
+        }
+    }
+}
